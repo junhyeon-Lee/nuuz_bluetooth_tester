@@ -1,16 +1,9 @@
 # nuuz_bluetooth_tester
 
-A new Flutter project.
+Nuuz프로젝트를 위한 블루트스 연결 테스트 앱
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- 블루투스 장비를 스캔하고 연결하여 원하는 데이터를 수신할 수 있다.
+- 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
